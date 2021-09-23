@@ -1,0 +1,17 @@
+Name;Lenguaje;Plataforma;Orientacion;LicenciaLibre;InterfazAgradable
+Allegro CL,;C,;windows,linux,;Video Juegos ;;
+DEX,;C++,;windows,linux,;Sistema de conocimiento;;
+Exbuild,;maquina,;windows,linux,mac,;Sistema expertos;;
+JESS,;Java,;windows,linux,mac,;Sistema expertos;;
+LIPS,;C,;windows,linux,mac,;Manipulacion de datos;;
+Mless,;Prolog,;;Sistema de conocimiento;;
+Scheme,;Lisp,;;Sistema de conocimiento;;
+Agent Builder,;Eclipse,;;Agentes Inteligentes;;
+CLIPS,;C,;windows,linux,;Sistema de conocimiento;;
+Prolog,;Prolog,;windows,linux,mac,;Inteligencia Artificial;;
+R,;R,;windows,linux,mac,;Manipulacion de datos;;
+Exsys Corvid,;HTML,;windows,linux,mac,;Sistema experto;;
+Experta,;Php,;windows,linux,;Sistema experto;;
+RDF,;RDF,;windows,linux,;;;
+JADE,;JAVA,;windows,linux,mac,;;;
+WEKA,;JAVA,;windows,linux,mac,;;;
